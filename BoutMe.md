@@ -1,4 +1,4 @@
 - 👋 Sup, I’m @xHawkays
 - 👀 I’m interested in improve my codes
-- 🌱 I’m currently learning python
+- 🐍 I’m currently learning python
 - 😄 Pronouns: He/Him
